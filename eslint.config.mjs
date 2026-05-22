@@ -8,5 +8,6 @@ export default antfu({
 
   rules: {
     'no-console': ['off'],
+    'antfu/top-level-function': 'off',
   },
 });
